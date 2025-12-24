@@ -25,7 +25,7 @@ To run the Screen Recorder locally:
 1. Navigate to the project folder:
    ```bash
    cd "Screen Recorder"
-````
+   ```
 
 2. Install dependencies:
 
